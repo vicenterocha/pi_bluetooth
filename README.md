@@ -20,3 +20,5 @@ Create a tutorial, because some files need to be changed and are not mentioned h
 
 * https://www.raspberrypi.org/forums/viewtopic.php?t=161944
 * https://ukbaz.github.io/howto/Bluetooth_speakers.html
+* https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/
+and many more during troubleshooting..
