@@ -13,7 +13,7 @@ I also built a controller using pushbuttons and the GPIOs of rasperry. They allo
 
 
 ## TODO
-Create a tutorial, because some files need to be changed and are not mentioned here.
+Create a tutorial, because some files need to be modified and are not mentioned here.
 
 
 ## CREDITS
