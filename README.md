@@ -9,7 +9,7 @@ In 30 seconds I'm listening to whatever I was last listening (either on the musi
 I also built a controller using pushbuttons and the GPIOs of rasperry. They allow me play/pause, previous and next. An extra and experimental button, when pressed twice reads the name of the song outloud.
 
 
-![Controller](https://ibb.co/wLV4XF7 "Controller")
+![Controller](https://i.ibb.co/sPnqGdC/download.png "Controller")
 
 
 ## TODO
