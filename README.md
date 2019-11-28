@@ -16,9 +16,9 @@ I also built a controller using pushbuttons and the GPIOs of rasperry. They allo
 
 ## TODO
 
-[] Create a tutorial, because some files need to be modified and are not mentioned here.
+[ ] Create a tutorial, because some files need to be modified and are not mentioned here.
 
-[] Add a battery to the raspberry pie, so when it detects that it is being powered by it, instead of the power from the car, it shutsdown automatically.
+[ ] Add a battery to the raspberry pie, so when it detects that it is being powered by it, instead of the power from the car, it shutsdown automatically.
 
 
 ## CREDITS
